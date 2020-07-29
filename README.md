@@ -4,7 +4,7 @@
 The transform feature lets you perform various operations on the input data in order to help you customize your workflow output or the data you send to the next action. This feature is available in all actions supported by webMethods.io Integration. 
 Following instructions will get you a copy of the specific Array transform in your webMethods.io Integration tanent.
 List of array transform available in the webMethods.io Integration are:
-1.<b> Chunk : </b>This operation lets you split the given array into specific number of chunks.
+1. <b> Chunk : </b>This operation lets you split the given array into specific number of chunks.
 2. <b> Filter: </b>This operation lets you filter out only specific elements of the given array based on the specified condition(s).
 3. <b> Index Of: </b>This operation lets you get the index of the first occurrence of the specified value in the given array (traversal is left-right). If the specified item doesn’t exist in the array, it returns -1 as the output.
 4. <b> Is Array:</b> This operation lets you get check whether the given input is an array or not. If its array it will return true, otherwise it will return false.
