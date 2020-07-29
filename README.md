@@ -29,5 +29,13 @@ List of array transform available in the webMethods.io Integration are:
 ![image](https://user-images.githubusercontent.com/60179170/88805095-5d798500-d1cc-11ea-97de-dec146247ecc.png)
 4. Then select the downloaded file and click on `open`.
 ![image](https://user-images.githubusercontent.com/60179170/88805410-bea15880-d1cc-11ea-8d57-a8358062d9af.png)
+5. After that you will be able the workflow in your recipie list.
+![image](https://user-images.githubusercontent.com/60179170/88805561-edb7ca00-d1cc-11ea-8c06-dbdab76b5f98.png)
+6. Click on that workflow and then select the project name where you want to import the workflow and click on `Done`.
+![image](https://user-images.githubusercontent.com/60179170/88805882-5737d880-d1cd-11ea-8414-17324e86dcd6.png)
+7. After that you will see a short description about that transform . Click on `Import` here.
+![image](https://user-images.githubusercontent.com/60179170/88806053-88b0a400-d1cd-11ea-9a1d-13b57b3e2701.png)<br/>
+Yeee now you have succesfully imported the work flow.
+
 
 
