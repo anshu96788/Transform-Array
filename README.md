@@ -52,8 +52,19 @@ Yeee now you have succesfully imported the work flow.
 ![image](https://user-images.githubusercontent.com/60179170/88810576-2a86bf80-d1d3-11ea-84ea-7524908127e6.png)
 7. Now paste the coppied data in to the body and click `Next` and then `Done`.
 ![image](https://user-images.githubusercontent.com/60179170/88810882-8d785680-d1d3-11ea-9c79-02d5d5f3be73.png)
-8. Now run the workflow it will give you output in the logger.
+8. Now run the workflow it will give you output in the logger.<br/>
 ![image](https://user-images.githubusercontent.com/60179170/88811238-efd15700-d1d3-11ea-94f2-a9446973d50e.png)
+
+### Test in Postman:
+1. Click on the webhook and coppy the link and click `Next`.
+![image](https://user-images.githubusercontent.com/60179170/88811813-a3d2e200-d1d4-11ea-8b8e-a30b73cb004f.png)
+2. Open Postman and paste the link.
+3. Coppy the body from the webhook. 
+![image](https://user-images.githubusercontent.com/60179170/88812058-ef858b80-d1d4-11ea-95c8-65aa4814ed4c.png)
+4. Paste this body in Postman . Keep the body format raw and type JSON. Now `Send` the request.
+![image](https://user-images.githubusercontent.com/60179170/88812421-5145f580-d1d5-11ea-9d3c-b4e43c5dec84.png)
+5. You will get the same response as  
+
 
 
 
