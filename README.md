@@ -27,5 +27,7 @@ List of array transform available in the webMethods.io Integration are:
 2. Log in to your webmethod.io account then go to `webMethods.io Integration`.
 3. Select `Reciepes` the click on `Import`.
 ![image](https://user-images.githubusercontent.com/60179170/88805095-5d798500-d1cc-11ea-97de-dec146247ecc.png)
+4. Then select the downloaded file and click on `open`.
+![image](https://user-images.githubusercontent.com/60179170/88805410-bea15880-d1cc-11ea-8d57-a8358062d9af.png)
 
 
