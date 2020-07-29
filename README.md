@@ -20,7 +20,12 @@ List of array transform available in the webMethods.io Integration are:
 14. <b>Splice:</b>  This operation lets you remove one or specified number of sequential elements from the given array.
 
 ### Prerequisites
-1. An account in webmethod.io with webMethods.io Integration access.
+1. An account in [webmethod.io](https://www.softwareag.cloud/site/product/webmethods-io-integration.html) with webMethods.io Integration access.
 
 ### Importing the recipie to your webMethods.io Integration tanent:
-1. 
+1. Download the specific zip file which transform you want test from this github page.
+2. Log in to your webmethod.io account then go to `webMethods.io Integration`.
+3. Select `Reciepes` the click on `Import`.
+![image](https://user-images.githubusercontent.com/60179170/88805095-5d798500-d1cc-11ea-97de-dec146247ecc.png)
+
+
