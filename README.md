@@ -23,13 +23,13 @@ List of array transform available in the webMethods.io Integration are:
 1. An account in [webmethod.io](https://www.softwareag.cloud/site/product/webmethods-io-integration.html) with webMethods.io Integration access.
 
 ### Importing the recipie to your webMethods.io Integration tanent:
-1. Download the specific zip file which transform you want test from this github page.
+1. Download the specific zip file which transform you want test, from this github page.ie [click here](https://github.com/anshu96788/Transform-Array/blob/master/Transform%20Pop.zip)
 2. Log in to your webmethod.io account then go to `webMethods.io Integration`.
 3. Select `Reciepes` the click on `Import`.
 ![image](https://user-images.githubusercontent.com/60179170/88805095-5d798500-d1cc-11ea-97de-dec146247ecc.png)
 4. Then select the downloaded file and click on `open`.
 ![image](https://user-images.githubusercontent.com/60179170/88805410-bea15880-d1cc-11ea-8d57-a8358062d9af.png)
-5. After that you will be able the workflow in your recipie list.
+5. After that you will be able the workflow in your recipie list.<br/>
 ![image](https://user-images.githubusercontent.com/60179170/88805561-edb7ca00-d1cc-11ea-8c06-dbdab76b5f98.png)
 6. Click on that workflow and then select the project name where you want to import the workflow and click on `Done`.
 ![image](https://user-images.githubusercontent.com/60179170/88805882-5737d880-d1cd-11ea-8414-17324e86dcd6.png)
